@@ -14,3 +14,9 @@ Had to do a similar assignment for Dr. Khan's advanced algorithms class, gonna
 see if I can find that file, but that project was single values only.
 
 
+### Dec 2, 2025 7:35PM
+#### This sessions goals:
+Complete this entire project so I can start studying for my final exams
+
+#### Notes during development:
+
